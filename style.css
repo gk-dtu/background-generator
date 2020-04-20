@@ -1,0 +1,14 @@
+body{
+    font: 'raleway', sans-serif;
+    color: rgb(0, 0, 0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, red,pink);
+}
+h3{
+    color: royalblue;
+    letter-spacing: 0.025em;
+    
+}
